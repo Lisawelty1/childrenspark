@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.6</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>gallary</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>page</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/absent/</ImageTemplate>
+            <ImageTemplateName>Absent</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Slabo 27px</TemplateFont>
+            <TemplateName>absent</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids1.jpg</url>
+                <filesize>86362</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids2.jpg</url>
+                <filesize>116916</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids3.jpg</url>
+                <filesize>41680</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids4.jpg</url>
+                <filesize>119405</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids5.jpg</url>
+                <filesize>1202497</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids6.jpg</url>
+                <filesize>977632</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids7.jpg</url>
+                <filesize>1864350</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids8.jpg</url>
+                <filesize>528150</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids9.jpg</url>
+                <filesize>320312</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids10.jpg</url>
+                <filesize>1827832</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids11.jpg</url>
+                <filesize>248477</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids12.jpg</url>
+                <filesize>134123</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids13.jpg</url>
+                <filesize>86595</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids14.jpg</url>
+                <filesize>138155</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids15.jpg</url>
+                <filesize>143411</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids16.jpg</url>
+                <filesize>93913</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids17.jpg</url>
+                <filesize>83352</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids18.jpg</url>
+                <filesize>118791</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/kids19.jpg</url>
+                <filesize>117000</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
