@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>7.2</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slideshow1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>glass_parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/sunny/</ImageTemplate>
+            <ImageTemplateName>Sunny</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>F:/FALL 2O15/Web design 2/client project/wow slider.html</PublishFileName>
+            <PublishIndex>wow slider.html</PublishIndex>
+            <PublishPath>F:/FALL 2O15/Web design 2/client project</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Tinos</TemplateFont>
+            <TemplateName>sunny</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/slideshow1.jpg</url>
+                <filesize>130486</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/slideshow2.jpg</url>
+                <filesize>1123387</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/slideshow4.jpg</url>
+                <filesize>1153263</filesize>
+            </Image>
+            <Image>
+                <url>F:/FALL 2O15/Web design 2/client project/images/slideshow5.jpg</url>
+                <filesize>102537</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
