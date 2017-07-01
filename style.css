@@ -1,0 +1,628 @@
+
+@import url(https://fonts.googleapis.com/css?family=Handlee);
+
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
+
+@import url(https://fonts.googleapis.com/css?family=Oleo+Script:700);
+
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration:none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+  color:black;
+  text-decoration: underline;
+}
+
+header {
+    height: 120px;
+    width: 1000px;
+    margin-left: 174px;
+    background-color: #4F62CC;
+}
+
+div.title{
+  color: white;
+font-size: 110px;
+padding-bottom: 21px;
+font-weight: bold;
+font-family: 'Oleo Script', cursive;
+margin-left: 160px;
+}
+
+body {
+    background-image: url("images/paper.jpg");
+    background-repeat: repeat;
+    height: 1000px;
+}
+div.container{
+  background-color: #FFEB9A;
+  width: 1000px;
+  height:auto;
+}
+div.layout{
+    background-color: #FFEB9A;
+    width: 1000px;
+    height:1000px;
+    margin: 0 auto;
+}
+
+div.logo {
+  margin-left: 30px;
+  padding-bottom: 80px;
+  margin-top: -172px;
+}
+
+div.name {
+  width: 300px;
+height: 100px;
+font-weight: bold;
+font-family: 'Handlee', cursive;
+font-size: 37px;
+margin-left: 717px;
+margin-top: -28px;
+}
+
+div.location {
+    width: 300px;
+    height: 100px;
+    /*font-weight: bold;*/
+    font-family: 'Handlee', cursive;
+    font-size: 21px;
+    margin-left: 757px;
+    margin-top: 30px;
+}
+
+div.phone {
+    width: 300px;
+    height: 100px;
+    /*font-weight: bold;*/
+    font-family: 'Handlee', cursive;
+    font-size: 21px;
+    margin-left: 757px;
+    margin-top: -17px;
+}
+
+div.time {
+    width: 300px;
+    height: 100px;
+    font-family: 'Handlee', cursive;
+    font-size: 21px;
+    margin-left: 757px;
+    margin-top: -17px;
+}
+
+div.pin-icon {
+  background-image: url("images/pin.png");
+  width: 32px;
+  height: 32px;
+  margin-top: -815px;
+  margin-left: 892px;
+}
+
+div.phone-icon {
+    background-image: url("images/phone.png");
+    width: 32px;
+    height: 32px;
+    margin-top: 49px;
+    margin-left: 892px;
+}
+
+div.clock-icon {
+    background-image: url("images/clock.png");
+    width: 32px;
+    height: 32px;
+    margin-top: 35px;
+    margin-left: 892px;
+}
+
+div.heading {
+    color: #1937B2;
+    font-weight: bold;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 512px;
+}
+
+div.carousel {
+    width: 573px;
+    height: 255px;
+    margin-top: -315px;
+    margin-left: 121px;
+}
+
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    height: 323px;
+    background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
+    background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,.5)));
+    background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+    background-repeat: repeat-x;
+}
+
+div.video{
+  margin-left: -50px;
+  margin-top: 113px;
+  margin-left: -56px;
+  width: 1000px;
+  padding-left: 58px;
+  padding-bottom: 31px;
+  background-color: #FFEB9A;
+}
+
+/*controls the entire gallery page, adjustment to placement of images*/
+div.img{
+  background-color: #FFEB9A;
+  display: inline-block;
+  vertical-align: top;
+  padding: -23px;
+  width: 982px;
+  margin-top: 70px;
+  /* float: left; */
+  margin-left: -39px;
+    }
+
+div.iframe{
+  margin-left: 21px;
+  padding-bottom: 41px;
+}
+
+div.body1{
+color:black;
+font-weight:normal;
+font-family: 'Handlee', cursive;
+margin-left:80px;
+font-size:19px;
+width:612px;
+}
+
+.contactTitle{
+  margin:5px;
+}
+
+div.body2{
+  color: black;
+      font-weight: normal;
+      font-family: 'Patrick Hand', cursive;
+      margin-left: 41px;
+      font-size: 20px;
+      margin-top: -439px;
+      padding-bottom: 180px;
+      width: 300px;
+}
+
+
+div.body3{
+  color: black;
+  font-weight: normal;
+  font-family: 'Patrick Hand', cursive;
+  margin-left: 466px;
+  position: relative;
+  padding-bottom: 44px;
+  margin-top: -98px;
+  font-size: 15px;
+  width: 293px;
+}
+
+h3{
+  width:600px;
+}
+
+/*nav bar for other pages*/
+div.nav {
+    background-color: #818BCC;
+    width: 1000px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 129px;
+    margin-left: 175px;
+    /* padding-left: 60%; */
+}
+
+/*for nav bar*/
+ul {
+  margin-left: -80px;
+  font-weight: bold;
+  font-family: 'Patrick Hand', cursive;
+  text-align: center;
+  /*margin-left:-300px;*/
+  padding-top:5px;
+}
+
+/*for nav bar*/
+li {
+    display: inline;
+    padding:0% 2%;
+  }
+#fix{
+  margin: 0% 8%;
+}
+
+/* Style The Dropdown Button */
+.dropbtn {
+    background-color: #4F62CC;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin: 0% 5%;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #818BCC;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color:black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #4F62CC;
+  color:black;
+  text-decoration:underline;
+      }
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #59d9c2;
+}
+
+/*headings for each info page */
+div.bodyhead{
+color:#1937B2;
+font-weight: bold;
+font-family: 'Patrick Hand', cursive;
+font-size:20px;
+margin-left:80px;
+margin-top:70px;
+}
+
+/*headings for index page */
+div.bodyhead1 {
+  color: #1937B2;
+  font-weight: bold;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
+  margin-left: 39px;
+  margin-top: 46px;
+}
+
+
+
+/*content on homepage*/
+div.body{
+  color: black;
+  font-weight: normal;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 19px;
+  padding-left: 20px;
+  padding-bottom: 217px;
+  width: 512px;
+  margin-left: 20px;
+}
+
+
+/*text for services offered*/
+div.service{
+  font-weight:normal;
+  font-family: 'Patrick Hand', cursive;
+  font-size:19px;
+  color:blue;
+  margin-left:750px;
+  margin-top:-80px;
+}
+
+/*first table*/
+.demo {
+  border: 0px solid;
+  border-collapse: collapse;
+  /* padding: 2px; */
+  /* float: right; */
+  margin-left: 767px;
+  width: 159px;
+  /* margin-top: -269px; */
+  margin-top: -631px;
+}
+	.demo th {
+		border:0px solid;
+		padding:5px;
+    font-weight:normal;
+    font-family: 'Patrick Hand', cursive;
+    font-size:19px;
+		background:#4F62CC;
+    color:white;
+	}
+	.demo td {
+		border:0px solid;
+		padding:5px;
+    font-weight:normal;
+    font-family: 'Patrick Hand', cursive;
+    font-size:19px;
+		background:#818BCC;
+	}
+
+/*second table*/
+.demo2 {
+  border: 0px solid;
+  border-collapse: collapse;
+  /* padding: 2px; */
+  /* float: right; */
+  margin-left: 767px;
+  width: 159px;
+  /* margin-top: -269px; */
+  margin-top: -59px;
+}
+	.demo2 th {
+		border:0px solid;
+		padding:5px;
+    font-weight:normal;
+    font-family: 'Patrick Hand', cursive;
+    font-size:19px;
+		background:#4F62CC;
+    color:white;
+	}
+	.demo2 td {
+		border:0px solid;
+		padding:5px;
+    font-weight:normal;
+    font-family: 'Patrick Hand', cursive;
+    font-size:19px;
+		background:#818BCC;
+	}
+
+  /*children image on homepage*/
+  div.welcomesign {
+    background-image: url("images/sign.png");
+  width: 550px;
+  height: 335px;
+  margin-left: 48px;
+  margin-top: 24px;
+  }
+
+  /*children image found on contact page*/
+  div.schoolimage{
+    background-image: url("images/school.png");
+    width: 380px;
+    height: 400px;
+    margin-left: 520px;
+    margin-top: -554px;
+  }
+
+  div.run{
+    background-image: url("images/run.png");
+    width: 450px;
+    height: 316px;
+    margin-left: 422px;
+    margin-top: -87px;
+  }
+
+/*message box on contact page*/
+  #message {
+    resize: none;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 16px;
+    width: 400px;
+    height: 100px;
+}
+
+  /*image found on enroll page*/
+  div.letsgo{
+    background-image: url("images/teacher.png");
+    width: 600px;
+    height: 351px;
+    margin-left: 102px;
+    margin-top: -322px;
+  }
+
+
+
+div.footer{
+  background-color: #4F62CC;
+  width: 1000px;
+  height: 159px;
+  margin-left: 175px;
+  /* padding-left: 60%; */
+}
+
+div.facebook{
+  background-image: url("images/fbc.png");
+  width: 100px;
+  height: 27px;
+  margin-left: 246px;
+  margin-top: 30px;
+
+}
+
+div.google{
+  background-image: url("images/gpc.png");
+  width: 100px;
+  height: 27px;
+  margin-left: 389px;
+  margin-top: -27px;
+}
+
+div.greatschool{
+  background-image: url("images/gsc.png");
+  width: 100px;
+  height: 27px;
+  margin-left: 534px;
+  margin-top: -27px;
+}
+
+div.yelp{
+  background-image: url("images/ypc.png");
+  width: 100px;
+  height: 27px;
+  margin-left: 680px;
+  margin-top: -27px;;
+}
+
+div.fontfooter{
+  color:white;
+  text-align:center;
+  font-size:18px;
+  font-family: 'Patrick Hand', cursive;
+}
+
+/*social media icons*/
+.social-popout {
+	height: 48px;
+	width: 48px;
+	margin-left: 930px;
+  margin-top:-4px;
+	float: left;
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+.social-popout img {
+	border-radius: 5%;
+	margin: 8px;
+	width: 100%;
+
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+.social-popout img:hover {
+	margin: 0px;
+	box-shadow: 6px 6px 4px 4px rgba(0,0,0,0.3);
+}
+
+
+/*for the pop out of bottom icons in footer*/
+
+.icon-popout {
+	height: 48px;
+	width: 100px;
+    margin-left: 243px;
+      margin-top:7px;
+  display:block;
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+
+#popout1{
+  height: 48px;
+      width: 100px;
+      margin-left: 354px;
+      margin-top: -48px;
+      display: block;
+      -webkit-transition: all ease 0.5s;
+      -moz-transition: all ease 0.5s;
+      -o-transition: all ease 0.5s;
+      -ms-transition: all ease 0.5s;
+      transition: all ease 0.5s;}
+
+#popout2{
+  height: 48px;
+  width: 100px;
+  margin-left: 582px;
+  margin-top: -48px;
+  display: block;
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  -o-transition: all ease 0.5s;
+  -ms-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+
+}
+
+#popout3{
+  height: 48px;
+	width: 100px;
+	margin-left: 768px;
+  margin-top:-83px;
+  display:block;
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+
+}
+
+#popout4{
+  height: 48px;
+	width: 100px;
+	margin-left: 243px;
+  margin-top:-49px;
+  display:block;
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+
+/*yelp icon for enroll page*/
+
+#popout5 {
+  height: 48px;
+width: 100px;
+margin-left: 467px;
+margin-top: -12px;
+display: block;
+-webkit-transition: all ease 0.5s;
+-moz-transition: all ease 0.5s;
+-o-transition: all ease 0.5s;
+-ms-transition: all ease 0.5s;
+transition: all ease 0.5s;
+}
+.icon-popout img {
+	/*border-radius: 35%;*/
+  display:inline;
+	margin: 8px;
+	width: 100%;
+
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+.icon-popout img:hover {
+	margin: 0px;
+  display:inline;
+	box-shadow: 6px 6px 4px 4px rgba(0,0,0,0.3);
+}
